@@ -1,6 +1,6 @@
-# python-template-repository
+# PyTorch-Audio
 
-本リポジトリはPython 環境のテンプレートリポジトリです。
+torchaudioによる音声データの取扱い
 
 ## リポジトリ構成
 
